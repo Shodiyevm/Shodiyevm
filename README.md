@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shodiyev Mirshod</h1>
-<h3 align="center">PHP programmer | Lifelong learner | Professional mistake maker</h3>
+<h3 align="center">PHP programmer from Uzbekistan | Lifelong learner | Professional mistake maker</h3>
 
 ---
 
@@ -25,7 +25,8 @@
 ---
 
 ### My activity:
-[![Hits](https://hits.sh/github.com/AminovJamshid.svg)](https://hits.sh/github.com/AminovJamshid/)
+[![Hits](https://hits.sh/github.com/Shodiyevm.svg)](https://hits.sh/github.com/Shodiyevm/)
+
 
 ---
 
