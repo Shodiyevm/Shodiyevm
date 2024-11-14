@@ -16,7 +16,7 @@
 
 ---
 
-[![Mirshod Shodiyev Wakatime stats](https://wakatime.com/badge/user/Shodiyevm.svg)](https://wakatime.com/@Shodiyevm)
+[![Mirshod](https://github-readme-stats.vercel.app/api/wakatime?username=Mirshod&layout=compact&theme=react)](https://wakatime.com/@Mirshod)
 
 
 ---
